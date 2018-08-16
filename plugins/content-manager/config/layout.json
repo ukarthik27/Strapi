@@ -1,0 +1,58 @@
+{
+  "pageData": {
+    "attributes": {
+      "Title": {
+        "appearance": ""
+      },
+      "data": {
+        "appearance": ""
+      }
+    }
+  },
+  "pagedata": {
+    "attributes": {
+      "pageType": {
+        "appearance": ""
+      },
+      "data": {
+        "appearance": ""
+      }
+    }
+  },
+  "homepageData": {
+    "attributes": {
+      "Title": {
+        "appearance": ""
+      },
+      "data": {
+        "appearance": ""
+      }
+    }
+  },
+  "aboutpageData": {
+    "attributes": {
+      "Title": {
+        "appearance": ""
+      },
+      "data": {
+        "appearance": ""
+      }
+    }
+  },
+  "userinfo": {
+    "attributes": {
+      "userEmail": {
+        "appearance": ""
+      },
+      "userPwd": {
+        "appearance": ""
+      },
+      "Name": {
+        "appearance": ""
+      },
+      "userData": {
+        "appearance": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "connection": "default",
+  "collectionName": "userinfo",
+  "info": {
+    "name": "userinfo",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "userEmail": {
+      "type": "email",
+      "required": true,
+      "unique": true
+    },
+    "userPwd": {
+      "type": "password"
+    },
+    "userData": {
+      "type": "json"
+    }
+  }
+}
